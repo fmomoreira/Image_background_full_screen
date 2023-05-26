@@ -1,0 +1,13 @@
+
+
+body {
+    background-image: url('../image/3d-rendem-de-uma-arvore-assustador-de-encontro-a-uma-lua.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+  }
